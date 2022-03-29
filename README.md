@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+![Screen Shot 2022-03-08 at 6 25 49 AM](https://user-images.githubusercontent.com/88326256/157258860-f4da6784-943d-4e10-b2fe-ef68445aa751.png)
+
+## Find it live in action https://chat-application-reactone.netlify.app/
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
